@@ -6,6 +6,12 @@
     <meta name="theme-color" content="#FF6B6B">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="{{ '/assets/logo.png' | relative_url }}">
+    <link rel="apple-touch-icon" href="{{ '/assets/logo.png' | relative_url }}">
+    
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     {% seo %}
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -86,14 +92,6 @@
         </div>
     </footer>
 
-    <!-- Mobile Sticky CTA -->
-    <div class="mobile-cta">
-        <a href="#download" class="cta-button">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
-            Jetzt App herunterladen
-        </a>
-    </div>
-
     <!-- Loading optimization script -->
     <script>
         document.addEventListener('DOMContentLoaded', function() {
@@ -171,29 +169,6 @@
                         behavior: 'smooth'
                     });
                 });
-            });
-
-            // Show/hide mobile CTA based on scroll position
-            var mobileCta = document.querySelector('.mobile-cta');
-            var lastScrollTop = 0;
-            var scrollThreshold = 300;
-
-            window.addEventListener('scroll', function() {
-                var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-                
-                if (scrollTop > scrollThreshold) {
-                    if (scrollTop > lastScrollTop) {
-                        // Scrolling down
-                        mobileCta.style.transform = 'translateY(100%)';
-                    } else {
-                        // Scrolling up
-                        mobileCta.style.transform = 'translateY(0)';
-                    }
-                } else {
-                    mobileCta.style.transform = 'translateY(0)';
-                }
-                
-                lastScrollTop = scrollTop;
             });
         });
     </script>
