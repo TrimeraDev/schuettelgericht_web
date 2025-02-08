@@ -1,0 +1,143 @@
+---
+layout: default
+---
+
+<article class="recipe">
+    <header class="recipe-header">
+        <h1>{{ page.title }}</h1>
+        <div class="recipe-meta">
+            <span class="category">{{ page.category }}</span>
+            <span class="prep-time">Zubereitungszeit: {{ page.prep_time }}</span>
+            <span class="difficulty">Schwierigkeit: {{ page.difficulty }}</span>
+        </div>
+    </header>
+
+    <div class="recipe-content">
+        <div class="recipe-image">
+            {% if page.image %}
+            <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+            {% endif %}
+        </div>
+
+        <div class="ingredients">
+            <h2>Zutaten</h2>
+            <ul>
+                {% for ingredient in page.ingredients %}
+                <li>{{ ingredient }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="instructions">
+            <h2>Zubereitung</h2>
+            {{ content }}
+        </div>
+
+        {% if page.tips %}
+        <div class="tips">
+            <h2>Tipps</h2>
+            <p>{{ page.tips }}</p>
+        </div>
+        {% endif %}
+    </div>
+
+    <footer class="recipe-footer">
+        <div class="tags">
+            {% for tag in page.tags %}
+            <span class="tag">#{{ tag }}</span>
+            {% endfor %}
+        </div>
+        <div class="share">
+            <h3>Teilen</h3>
+            <!-- Add social sharing buttons here -->
+        </div>
+    </footer>
+</article>
+
+<style>
+.recipe {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+}
+
+.recipe-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.recipe-meta {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 1rem;
+    color: #666;
+}
+
+.recipe-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+}
+
+.ingredients {
+    background: #f8f9fa;
+    padding: 2rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+}
+
+.ingredients ul {
+    list-style: none;
+    padding: 0;
+}
+
+.ingredients li {
+    margin-bottom: 0.5rem;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.ingredients li:before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: var(--primary-color);
+}
+
+.instructions {
+    margin-bottom: 2rem;
+}
+
+.instructions h2 {
+    margin-bottom: 1rem;
+}
+
+.tips {
+    background: #fff3cd;
+    padding: 1.5rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+}
+
+.recipe-footer {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid #eee;
+}
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.tag {
+    background: #e9ecef;
+    padding: 0.25rem 0.75rem;
+    border-radius: 15px;
+    font-size: 0.875rem;
+}
+</style>
