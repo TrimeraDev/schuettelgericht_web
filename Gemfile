@@ -1,13 +1,13 @@
 source "https://rubygems.org"
-gem "jekyll-seo-tag"
-gem "jekyll-sitemap"
-gem "jekyll-feed"
-gem "csv"
-gem "logger"
-gem "base64"
-gem "jekyll"
+
+gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
+  # Plugins supported by GitHub Pages (these are included by default, but you can add more if supported)
+  # gem "jekyll-seo-tag"
+  # gem "jekyll-sitemap"
+  # gem "jekyll-feed"
+  # gem "base64" # Only if required and supported
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -17,5 +17,4 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-# Performance-booster for watching directories on Windows
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.8" # Needed for local development with Ruby 3+
