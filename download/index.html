@@ -1,0 +1,21 @@
+---
+layout: default
+title: Download
+lang: de
+---
+
+<div id="download-content" style="text-align:center; margin-top: 100px;">
+  <h1>Download</h1>
+  <p id="message">Wird geladen...</p>
+</div>
+<script>
+(function() {
+  var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+  var isAndroid = /android/i.test(userAgent);
+  if (isAndroid) {
+    window.location.href = "https://play.google.com/store/apps/details?id=com.mietzekater.schuettelgericht";
+  } else {
+    document.getElementById("message").textContent = "Bald im App Store verfügbar.";
+  }
+})();
+</script>
