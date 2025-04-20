@@ -83,7 +83,7 @@ PLATFORMS
 DEPENDENCIES
   base64
   csv
-  jekyll (~> 4.3.3)
+  jekyll
   jekyll-feed
   jekyll-seo-tag
   jekyll-sitemap
