@@ -2,7 +2,7 @@
 ---
 layout: default
 title: Impressum
-permalink: /imprint/
+permalink: /impressum/
 ---
 
 # Impressum
