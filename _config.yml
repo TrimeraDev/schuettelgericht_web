@@ -1,4 +1,4 @@
-title: Schüttelgericht
+title: ShakeChef AI
 description: Discover AI-powered recipe inspiration with a shake of your phone! Turn your available ingredients into delicious meals instantly.
 baseurl: ""
 url: "https://trimeradev.github.io"
@@ -22,11 +22,11 @@ defaults:
       type: "recipes"
     values:
       layout: "recipe"
-      
+
 # SEO settings
-lang: de_DE
+lang: en_US
 social:
-  name: Schüttelgericht
+  name: ShakeChef AI
   links:
     - https://github.com/TrimeraDev/Schuettelgericht
 

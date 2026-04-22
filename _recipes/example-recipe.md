@@ -1,45 +1,45 @@
 ---
 layout: recipe
-title: "Schnelle Gemüsepfanne mit Quinoa"
-description: "Eine gesunde und schnelle Gemüsepfanne mit Quinoa - perfekt für einen energiereichen Tag!"
-category: "Mittagessen"
-prep_time: "25 Minuten"
-difficulty: "Einfach"
+title: "Quick Veggie Stir-Fry with Quinoa"
+description: "A healthy and quick veggie stir-fry with quinoa — perfect for an energizing day!"
+category: "Lunch"
+prep_time: "25 minutes"
+difficulty: "Easy"
 image: "/assets/recipe-images/vegetable-quinoa-stir-fry.jpg"
 tags: 
-  - vegetarisch
-  - gesund
-  - schnell
+  - vegetarian
+  - healthy
+  - quick
   - quinoa
-  - gemüse
+  - vegetables
 ingredients:
-  - "200g Quinoa"
-  - "1 Zucchini"
-  - "2 Karotten"
-  - "1 rote Paprika"
-  - "1 Zwiebel"
-  - "2 Knoblauchzehen"
-  - "2 EL Olivenöl"
-  - "Salz und Pfeffer nach Geschmack"
-  - "Frische Kräuter zum Garnieren"
+  - "200g quinoa"
+  - "1 zucchini"
+  - "2 carrots"
+  - "1 red bell pepper"
+  - "1 onion"
+  - "2 cloves of garlic"
+  - "2 tbsp olive oil"
+  - "Salt and pepper to taste"
+  - "Fresh herbs for garnish"
 ---
 
-1. Quinoa nach Packungsanweisung kochen und beiseite stellen.
+1. Cook the quinoa according to the package instructions and set aside.
 
-2. Währenddessen das Gemüse waschen und in gleichmäßige Stücke schneiden:
-   - Zucchini in Halbmonde
-   - Karotten in dünne Scheiben
-   - Paprika in Streifen
-   - Zwiebel und Knoblauch fein hacken
+2. Meanwhile, wash the vegetables and cut them into even pieces:
+   - Zucchini into half-moons
+   - Carrots into thin slices
+   - Bell pepper into strips
+   - Finely chop the onion and garlic
 
-3. Olivenöl in einer großen Pfanne erhitzen und Zwiebeln mit Knoblauch anschwitzen.
+3. Heat the olive oil in a large pan and sauté the onion and garlic until translucent.
 
-4. Karotten hinzufügen und 3-4 Minuten anbraten.
+4. Add the carrots and cook for 3–4 minutes.
 
-5. Paprika und Zucchini dazugeben und weitere 5-7 Minuten braten, bis das Gemüse bissfest ist.
+5. Add the bell pepper and zucchini and cook for another 5–7 minutes, until the vegetables are tender-crisp.
 
-6. Gekochte Quinoa untermischen und alles gut durcherhitzen.
+6. Stir in the cooked quinoa and heat everything through.
 
-7. Mit Salz und Pfeffer abschmecken und mit frischen Kräutern garnieren.
+7. Season with salt and pepper and garnish with fresh herbs.
 
-Guten Appetit!
+Enjoy your meal!

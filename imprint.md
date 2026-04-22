@@ -1,31 +1,30 @@
 ---
----
 layout: default
-title: Impressum
-permalink: /impressum/
+title: Imprint
+permalink: /imprint/
 ---
 
-# Impressum
+# Imprint
 
-Transparenz und Verantwortung
+Transparency and responsibility
 
-## Verantwortliche für Schüttelgericht
+## Responsible for ShakeChef AI
 Simon & Vincent UG (haftungsbeschränkt)
 
-### Kontaktinformationen
-E-Mail: hi@mietzekater.de  
-Adresse: Paulusstraße 6, 52064 Aachen, Deutschland  
-Telefon: +49 (0) 15222 985887
+### Contact information
+Email: hi@mietzekater.de  
+Address: Paulusstraße 6, 52064 Aachen, Germany  
+Phone: +49 (0) 15222 985887
 
-Register Eintrag:  
+Register entry:  
 HRB 28624 B  
-Amtsgericht Aachen  
-Vertreten durch Vincent Schulz & Simon Bilecen
+Amtsgericht Aachen (Local Court of Aachen)  
+Represented by Vincent Schulz & Simon Bilecen
 
-### Haftungsausschluss
-Schüttelgericht übernimmt keine Haftung für Inhalte externer Links oder Schäden, die durch die Nutzung der Plattform entstehen. Für die Inhalte der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+### Disclaimer
+ShakeChef AI assumes no liability for the contents of external links or for damages arising from the use of the platform. The operators of the linked pages are solely responsible for their content.
 
-### Streitschlichtung
-Wir sind derzeit nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+### Dispute resolution
+We are currently not willing or obliged to participate in dispute resolution proceedings before a consumer arbitration board.
 
-Stand: April 2025
+As of: April 2025
