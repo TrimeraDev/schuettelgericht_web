@@ -12,7 +12,7 @@ Transparency and responsibility
 Simon & Vincent UG (haftungsbeschränkt)
 
 ### Contact information
-Email: hi@mietzekater.de  
+Email: hi@mietsdir.com  
 Address: Paulusstraße 6, 52064 Aachen, Germany  
 Phone: +49 (0) 15222 985887
 

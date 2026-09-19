@@ -9,7 +9,7 @@ permalink: /privacy/
 Last updated: April 22, 2026
 Controller: Simon & Vincent UG (haftungsbeschränkt)
 Address: Paulusstraße 6-8, 52064 Aachen, Germany
-Contact: shakechef@mietzekater.de
+Contact: shakechef@mietsdir.com
 
 [Deutsch ↓](#deutsche-fassung)
 
@@ -25,7 +25,7 @@ We are the controller of personal data processed through ShakeChef AI, unless th
 
 Controller: Simon & Vincent UG (haftungsbeschränkt)
 Address: Paulusstraße 6-8, 52064 Aachen, Germany
-Email: shakechef@mietzekater.de
+Email: shakechef@mietsdir.com
 
 ## 3. Data we collect
 
@@ -215,7 +215,7 @@ If you have questions or requests regarding this Privacy Policy, contact us at:
 
 Simon & Vincent UG (haftungsbeschränkt)
 Paulusstraße 6-8, 52064 Aachen, Germany
-shakechef@mietzekater.de
+shakechef@mietsdir.com
 
 ---
 
@@ -226,7 +226,7 @@ Hinweis: Die nachfolgende deutsche Fassung ist eine Übersetzung zu Informations
 Zuletzt aktualisiert: 22. April 2026
 Verantwortlicher: Simon & Vincent UG (haftungsbeschränkt)
 Adresse: Paulusstraße 6-8, 52064 Aachen, Deutschland
-Kontakt: shakechef@mietzekater.de
+Kontakt: shakechef@mietsdir.com
 
 ### 1. Überblick
 
@@ -240,7 +240,7 @@ Wir sind der Verantwortliche für personenbezogene Daten, die über ShakeChef AI
 
 Verantwortlicher: Simon & Vincent UG (haftungsbeschränkt)
 Adresse: Paulusstraße 6-8, 52064 Aachen, Deutschland
-E-Mail: shakechef@mietzekater.de
+E-Mail: shakechef@mietsdir.com
 
 ### 3. Welche Daten wir erheben
 
@@ -379,4 +379,4 @@ Wenn du Fragen oder Anfragen zu dieser Datenschutzerklärung hast, kontaktiere u
 
 Simon & Vincent UG (haftungsbeschränkt)
 Paulusstraße 6-8, 52064 Aachen, Deutschland
-shakechef@mietzekater.de
+shakechef@mietsdir.com

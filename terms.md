@@ -9,7 +9,7 @@ permalink: /terms/
 Last updated: April 23, 2026  
 Company: Simon & Vincent UG (haftungsbeschränkt)  
 Address: Paulusstraße 6-8, 52064 Aachen, Germany  
-Contact: shakechef@mietzekater.de
+Contact: shakechef@mietsdir.com
 
 [Deutsch ↓](#deutsche-fassung)
 
@@ -180,7 +180,7 @@ Questions about these Terms:
 
 Simon & Vincent UG (haftungsbeschränkt)  
 Paulusstraße 6-8, 52064 Aachen, Germany  
-shakechef@mietzekater.de
+shakechef@mietsdir.com
 
 ---
 
@@ -191,7 +191,7 @@ Hinweis: Die nachfolgende deutsche Fassung ist eine Übersetzung zu Informations
 Zuletzt aktualisiert: 23. April 2026  
 Unternehmen: Simon & Vincent UG (haftungsbeschränkt)  
 Adresse: Paulusstraße 6-8, 52064 Aachen, Deutschland  
-Kontakt: shakechef@mietzekater.de
+Kontakt: shakechef@mietsdir.com
 
 ### 1. Annahme dieser Bedingungen
 
@@ -323,4 +323,4 @@ Diese Bedingungen unterliegen dem Recht der **Bundesrepublik Deutschland** unter
 
 Simon & Vincent UG (haftungsbeschränkt)  
 Paulusstraße 6-8, 52064 Aachen, Deutschland  
-shakechef@mietzekater.de
+shakechef@mietsdir.com
